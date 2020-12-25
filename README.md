@@ -32,4 +32,4 @@ faceextract.py is a used to extract faces from a video frame using opencv and ha
 
 ### Tasks:
 
-- [] Using face detection neural network model to detect face instead of haar cascade to improve accuracy.
+- [ ] Using face detection neural network model to detect face instead of haar cascade to improve accuracy.
